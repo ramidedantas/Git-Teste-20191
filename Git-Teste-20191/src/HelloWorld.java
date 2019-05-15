@@ -8,6 +8,12 @@ public class HelloWorld {
 
 		System.out.println("Master-bash: new commit!");
 		System.out.println("Bash branch!");
+	
+		System.out.println("Master: New commit");
+		
+		System.out.println("Eclipse branch!");
+		
+		System.out.println("Eclipse branch: new commmit!");		
 	}
 
 }
